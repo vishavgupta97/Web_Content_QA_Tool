@@ -1,4 +1,6 @@
 gradio
-duckduckgo-search
+requests
+beautifulsoup4
+langchain_community
+chromadb
 transformers
-torch
