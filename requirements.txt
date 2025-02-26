@@ -1,0 +1,4 @@
+gradio
+duckduckgo-search
+transformers
+torch
